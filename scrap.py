@@ -101,7 +101,7 @@ def convert_to_datetime(input_date):
             dicts[f"part {i+1}"] = datetime.strptime(date, fmt)
         return dicts
     elif isinstance(input_date, str):
-        date = item.strip()[1:-1]
+        date = input_date.strip()[1:-1]
         return datetime.strptime(date, fmt)
 
 
