@@ -1,0 +1,58 @@
+[{
+    "title": "Vikings",
+    "season": 1,
+    "Starring": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen", "Jessalyn Gilsig", "Gustaf Skarsg\u00e5rd", "Gabriel Byrne", "George Blagden", "Donal Logue", "Alyssa Sutherland"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 9,
+    "Original network": "History",
+    "Original release": "2013-03-03 00:00:00"
+}, {
+    "title": "Vikings",
+    "season": 2,
+    "Starring": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen", "Jessalyn Gilsig", "Gustaf Skarsg\u00e5rd", "George Blagden", "Alyssa Sutherland", "Donal Logue", "Linus Roache", "Alexander Ludwig"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 10,
+    "Original network": "History",
+    "Original release": "2014-02-27 00:00:00"
+}, {
+    "title": "Vikings",
+    "season": 3,
+    "Starring": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen", "Jessalyn Gilsig", "Gustaf Skarsg\u00e5rd", "George Blagden", "Alexander Ludwig", "Alyssa Sutherland", "Ben Robson", "Linus Roache", "Kevin Durand", "Lothaire Bluteau"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 10,
+    "Original network": "History",
+    "Original release": "2015-02-19 00:00:00"
+}, {
+    "title": "Vikings",
+    "season": 4,
+    "Starring": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen", "Gustaf Skarsg\u00e5rd", "Alexander Ludwig", "Alyssa Sutherland", "Ben Robson", "Lothaire Bluteau", "John Kavanagh", "Linus Roache", "Peter Franz\u00e9n", "Jasper P\u00e4\u00e4kk\u00f6nen", "Kevin Durand", "Alex H\u00f8gh", "Marco Ils\u00f8", "David Lindstr\u00f6m", "Jordan Patrick Smith", "Moe Dunford", "Jonathan Rhys Meyers"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 20,
+    "Original network": "History",
+    "Original release": {
+        "part 1": "2016-02-18 00:00:00",
+        "part 2": "2016-11-30 00:00:00"
+    }
+}, {
+    "title": "Vikings",
+    "season": 5,
+    "Starring": ["Katheryn Winnick", "Gustaf Skarsg\u00e5rd", "Alexander Ludwig", "Peter Franz\u00e9n", "Jasper P\u00e4\u00e4kk\u00f6nen", "Moe Dunford", "Alex H\u00f8gh", "Marco Ils\u00f8", "Jordan Patrick Smith", "Jonathan Rhys Meyers", "John Kavanagh"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 20,
+    "Original network": "History",
+    "Original release": {
+        "part 1": "2017-11-29 00:00:00",
+        "part 2": "2018-11-28 00:00:00"
+    }
+}, {
+    "title": "Vikings",
+    "season": 6,
+    "Starring": ["Katheryn Winnick", "Alexander Ludwig", "Alex H\u00f8gh Andersen", "Marco Ils\u00f8", "Jordan Patrick Smith", "Danila Kozlovsky", "John Kavanagh", "Peter Franz\u00e9n", "Eric Johnson", "Georgia Hirst", "Ragga Ragnars", "Ray Stevenson", "Gustaf Skarsg\u00e5rd", "Jasper P\u00e4\u00e4kk\u00f6nen"],
+    "Country of origin": "Canada / Ireland",
+    "No. of episodes": 20,
+    "Original network": ["Part 1: History", "Part 2: Prime Video"],
+    "Original release": {
+        "part 1": "2019-12-04 00:00:00",
+        "part 2": "2020-12-30 00:00:00"
+    }
+}]
